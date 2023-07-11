@@ -1,6 +1,6 @@
 
 ```bash
-Sales Report & Finance Report for AtliQ Hardeware
+## Sales Report & Finance Report for AtliQ Hardeware
 ```
 Link to [Interactive Report]()
 
