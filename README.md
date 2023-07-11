@@ -20,7 +20,9 @@ Link to [Report Presentation]()
 
 ## Finance Report :
 
-**Project objective:** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/chandreshkhuntia/SALES-REPORT-FINANCE-REPORT-for-AtliQ-Hardware-in-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/chandreshkhuntia/SALES-REPORT-FINANCE-REPORT-for-AtliQ-Hardware-in-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+**Project objective:** 
+**1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/chandreshkhuntia/SALES-REPORT-FINANCE-REPORT-for-AtliQ-Hardware-in-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/chandreshkhuntia/SALES-REPORT-FINANCE-REPORT-for-AtliQ-Hardware-in-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+**2.** Create Profit and Loss (P&L) reports by _[Markets]()_
 
 **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
