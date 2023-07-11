@@ -4,12 +4,12 @@ Sales Report & Finance Report for AtliQ Hardeware
 ```
 Link to [Interactive Report]()
 
-Link to [Resume Presentation](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+Link to [Report Presentation]()
 
 ## Sales Report :
 
 
-**Project objective:** Create a customer performance report and conduct a comprehensive comparison between market performance and sales targets.
+**Project objective:** Create a [customer performance report]() and conduct a comprehensive comparison between market performance and sales targets.
 
 **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
