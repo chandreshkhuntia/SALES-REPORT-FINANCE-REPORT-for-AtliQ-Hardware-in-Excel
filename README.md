@@ -9,7 +9,7 @@ Link to [Report Presentation]()
 ## Sales Report :
 
 
-**Project objective:** 
+- [] **Project objective:** 
 
 **1.** Create a _[customer performance report](https://github.com/chandreshkhuntia/SALES-REPORT-FINANCE-REPORT-for-AtliQ-Hardware-in-Excel/blob/main/Customer%20Performance%20Report.pdf)_ 
 
