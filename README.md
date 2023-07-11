@@ -9,7 +9,7 @@ Link to [Report Presentation]()
 ## Sales Report :
 
 
-**Project objective:** Create a [customer performance report]() and conduct a comprehensive comparison between market performance and sales targets.
+**Project objective:** Create a [customer performance report](https://github.com/chandreshkhuntia/SALES-REPORT-FINANCE-REPORT-for-AtliQ-Hardware-in-Excel/blob/main/Customer%20Performance%20Report.pdf) and conduct a comprehensive comparison between market performance and sales targets.
 
 **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
