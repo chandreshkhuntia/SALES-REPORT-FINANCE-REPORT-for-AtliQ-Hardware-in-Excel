@@ -1,7 +1,5 @@
 # Sales Report & Finance Report for AtliQ Hardware
 
-Link to [Interactive Report]()
-
 Link to [Report Presentation]()
 
 ## Sales Report :
