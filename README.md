@@ -1,7 +1,5 @@
+# Sales Report & Finance Report for AtliQ Hardware
 
-```bash
-## Sales Report & Finance Report for AtliQ Hardware
-```
 Link to [Interactive Report]()
 
 Link to [Report Presentation]()
@@ -38,15 +36,15 @@ Link to [Report Presentation]()
 
 
 ## Technical & Soft Skills:
-1.	Proficiency in ETL methodology (Extract, Transform, Load).
-2.	Skills to generate a date table using Power Query.
-3.	Ability to derive fiscal months and quarters.
-4.	Establishing data model relationships with Power Pivot.
-5.	Proficiency in incorporating supplementary data into an existing data model.
-6.	Utilizing DAX to create calculated columns.
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-1.	Refined understanding of Sales & Finance Reports
-2.	Designing user-centric reports with empathy in mind.
-3.	Optimization of report generation through meticulous fine-tuning.
-4.	Developing a systematic approach to devising a report building plan.
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
