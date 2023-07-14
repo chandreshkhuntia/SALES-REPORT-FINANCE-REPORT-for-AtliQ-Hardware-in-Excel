@@ -33,7 +33,7 @@ Link to [Report Presentation]()
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
+## Technical Skills Gained:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
@@ -41,7 +41,7 @@ Link to [Report Presentation]()
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
-## Soft Skills:
+## Soft Skills Gained:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
